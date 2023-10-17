@@ -1,0 +1,6 @@
+LIBRARY   tess_engine
+EXPORTS
+   ocr_engine_ver   @1
+   ocr_engine_init   @2
+   ocr_engine_ocr   @3
+   ocr_engine_release   @4
