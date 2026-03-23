@@ -1,0 +1,39 @@
+# Build directories
+/build/
+/build_service/
+
+# CMake generated files
+/CMakeCache.txt
+/CMakeFiles/
+/cmake_install.cmake
+/compile_commands.json
+/CTestTestfile.cmake
+/Testing/
+
+# Visual Studio / MSBuild
+/.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+
+# Build outputs
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Local logs and temporary outputs
+*.log
+build_output.txt
+cmake_output.txt
+
+# Local runtime/test assets
+/tessdata/
+/tmp/
