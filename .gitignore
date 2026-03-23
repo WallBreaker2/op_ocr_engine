@@ -37,3 +37,10 @@ cmake_output.txt
 # Local runtime/test assets
 /tessdata/
 /tmp/
+
+# Python Virtual Environments
+.venv-paddle/
+__pycache__/
+
+# VSCode
+.vscode/
