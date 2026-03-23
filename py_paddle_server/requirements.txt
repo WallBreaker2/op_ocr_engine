@@ -1,0 +1,6 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+paddlepaddle>=2.6.2,<3.0.0
+paddleocr>=2.8.2,<3.0.0
+opencv-python>=4.10.0
+numpy>=1.24.0,<2.0.0
